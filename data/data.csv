@@ -1,0 +1,13 @@
+customerID,customername,contactname,address,city,postalcode,country
+C001,Alpha Corp,Alice Johnson,123 Maple Street,New York,10001,USA
+C002,Beta LLC,Bob Smith,456 Oak Avenue,London,SW1A 1AA,UK
+C003,Gamma Inc,Carol White,789 Pine Road,Paris,75001,France
+C004,Delta Ltd,David Brown,101 Birch Blvd,Berlin,10115,Germany
+C005,Epsilon GmbH,Eva Green,202 Cedar Lane,Madrid,28001,Spain
+C006,Zeta SA,Frank Black,303 Walnut Street,Sydney,2000,Australia
+C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
+C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
+C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
+C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
+C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
+C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia

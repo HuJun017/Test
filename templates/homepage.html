@@ -1,0 +1,7 @@
+<form action="/elencoCitta" method="POST">
+    <p>
+        {% for nazione in elenco %}
+        <button type="submit" name="nazione" value="{{ nazione }}">{{ nazione }}</button>
+        {% endfor %}
+    </p>
+</form>
