@@ -1,13 +1,11 @@
 customerID,customername,contactname,address,city,postalcode,country
-C001,Alpha Corp,Alice Johnson,123 Maple Street,New York,10001,USA
-C002,Beta LLC,Bob Smith,456 Oak Avenue,London,SW1A 1AA,UK
-C003,Gamma Inc,Carol White,789 Pine Road,Paris,75001,France
-C004,Delta Ltd,David Brown,101 Birch Blvd,Berlin,10115,Germany
-C005,Epsilon GmbH,Eva Green,202 Cedar Lane,Madrid,28001,Spain
-C006,Zeta SA,Frank Black,303 Walnut Street,Sydney,2000,Australia
-C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
-C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
-C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
-C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
-C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
-C006,Zeta SA,Frank Black,303 Walnut Street,Camberra,2000,Australia
+1,Alpha Corp,Alice Johnson,123 Maple Street,New York,10001,USA
+2,Beta LLC,Bob Smith,456 Oak Avenue,London,SW1A 1AA,UK
+3,Gamma Inc,Carol White,789 Pine Road,Paris,75001,France
+4,Delta Ltd,David Brown,101 Birch Blvd,Berlin,10115,Germany
+5,Epsilon GmbH,Eva Green,202 Cedar Lane,Madrid,28001,Spain
+6,Theta Ltd,Frank Black,303 Walnut Street,Tokyo,100-0001,Japan
+7,Iota Corp,Frank Black,303 Walnut Street,Toronto,M5H 2N2,Canada
+8,Kappa LLC,Frank Black,303 Walnut Street,San Francisco,94105,USA
+9,Lambda Inc,Frank Black,303 Walnut Street,Dublin,D01 HN76,Ireland
+10,Mu SA,Frank Black,303 Walnut Street,Melbourne,3000,Australia

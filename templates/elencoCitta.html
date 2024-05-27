@@ -1,9 +1,10 @@
-<form action="/elencoClienti" method="POST">
-    <p>
-        {% for index, row in elenco.iterrows() %}
-            <input type="radio" name="citta" value="{{ row['city'] }}">{{ row['city'] }} {{ row['num_clients'] }}<br />
-        {% endfor %}
-    </p>
-    <button type="submit">Submit</button>
-</form>
-
+<body>
+    <form action="/elencoClienti" method="GET">
+        <p>
+            {% for index, row in elenco.iterrows() %}
+                <input type="radio" name="citta" value="{{ row['city'] }}">{{ row['city'] }} {{ row['num_clients'] }}<br />
+            {% endfor %}
+        </p>
+        <button type="submit">Submit</button>
+    </form>    
+</body>
