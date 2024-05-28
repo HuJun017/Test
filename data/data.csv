@@ -1,11 +1,13 @@
-customerID,customername,contactname,address,city,postalcode,country
-1,Alpha Corp,Alice Johnson,123 Maple Street,New York,10001,USA
-2,Beta LLC,Bob Smith,456 Oak Avenue,London,SW1A 1AA,UK
-3,Gamma Inc,Carol White,789 Pine Road,Paris,75001,France
-4,Delta Ltd,David Brown,101 Birch Blvd,Berlin,10115,Germany
-5,Epsilon GmbH,Eva Green,202 Cedar Lane,Madrid,28001,Spain
-6,Theta Ltd,Frank Black,303 Walnut Street,Tokyo,100-0001,Japan
-7,Iota Corp,Frank Black,303 Walnut Street,Toronto,M5H 2N2,Canada
-8,Kappa LLC,Frank Black,303 Walnut Street,San Francisco,94105,USA
-9,Lambda Inc,Frank Black,303 Walnut Street,Dublin,D01 HN76,Ireland
-10,Mu SA,Frank Black,303 Walnut Street,Melbourne,3000,Australia
+CustomerID,CustomerName,ContactName,Address,City,PostalCode,Country
+1,Alfreds Futterkiste,Maria Anders,Obere Str. 57,Berlin,12209,Germany
+2,Ana Trujillo Emparedados y helados,Ana Trujillo,Avda. de la Constitución 2222,México D.F.,05021,Mexico
+3,Antonio Moreno Taquería,Antonio Moreno,Mataderos 2312,México D.F.,05023,Mexico
+4,Around the Horn,Thomas Hardy,120 Hanover Sq.,London,WA1 1DP,UK
+5,Berglunds snabbköp,Christina Berglund,Berguvsvägen 8,Luleå,S-958 22,Sweden
+6,Blauer See,Hanna Moos,Forsterstr. 57,Mannheim,68306,Germany
+7,Bon app',Laurence Lebihan,12 rue des Bouchers,Marseille,13008,France
+8,Bottom-Dollar Markets,Elizabeth Lincoln,23 Tsawassen Blvd.,Tsawassen,T2F 8M4,Canada
+9,B's Beverages,Victoria Ashworth,Fauntleroy Circus,London,EC2 4NR,UK
+10,Cactus Comidas para llevar,Patricio Simpson,Cerrito 333,Buenos Aires,1010,Argentina
+11,Centro comercial Moctezuma,Francisco Chang,Sierras de Granada 9993,Cancun,05022,Mexico
+12,Chop-suey Chinese,Yang Wang,Hauptstr. 29,Bern,3012,Switzerland
